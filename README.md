@@ -19,9 +19,9 @@ A modern, responsive fitness landing page for a gym, featuring interactive secti
 - **Smooth Scrolling**: Navigation links for seamless section jumps.
 
 ## Demo
-![Screenshot 2025-02-12 005840](https://github.com/user-attachments/assets/770800ad-7c0e-4a80-b6b2-bbb1ba6d610c)
-![Screenshot 2025-02-12 005901](https://github.com/user-attachments/assets/99bab20f-a0cc-4d79-983b-229570aa210b)
-![Screenshot 2025-02-12 010106](https://github.com/user-attachments/assets/63fa33c9-ecd4-4efc-85ab-67f50c37a676)
+![Screenshot 2025-02-12 005840](https://github.com/user-attachments/assets/57700a48-fd84-4c48-a437-fa418c2e1a90)
+![Screenshot 2025-02-12 005901](https://github.com/user-attachments/assets/aced4a1c-d99a-45f7-b706-af81affd50e8)
+![Screenshot 2025-02-12 010106](https://github.com/user-attachments/assets/9633d92b-f3a7-4e26-a41e-f16469e660f3)
 
 
 ## Installation
